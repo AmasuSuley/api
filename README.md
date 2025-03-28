@@ -1,7 +1,7 @@
 # Django API Project
 
 ## Overview
-This project is a Django-based API service designed to [provide specific functionality]. It is deployed on AWS.
+This project is a Django-based API service. It is deployed on AWS.
 
 ## Technologies Used
 - Python
@@ -20,7 +20,7 @@ This project is a Django-based API service designed to [provide specific functio
 ### Clone the repository
 ```bash
 git clone https://github.com/AmasuSuley/api.git
-cd yourproject
+cd api
 ```
 
 ### Create and activate a virtual environment
@@ -68,7 +68,7 @@ sudo pip3 install virtualenv
 
 ```bash
 git clone https://github.com/AmasuSuley/api.git
-cd yourproject
+cd api
 ```
 
 ### 4. Set up the Virtual Environment and Install Dependencies
