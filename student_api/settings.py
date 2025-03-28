@@ -79,12 +79,11 @@ WSGI_APPLICATION = 'student_api.wsgi.application'
 DATABASES = {
      'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'api',  # Change to your actual database name
-        'USER': 'root',
-        'PASSWORD': 'your_password',  # If you have no password, leave this empty
-        'HOST': '127.0.0.1',  # Use '127.0.0.1' instead of 'localhost'
+        'NAME': 'api_db',
+        'USER': 'api_user',
+        'PASSWORD': 'Amasu@0629',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
-    
     }
 }
 

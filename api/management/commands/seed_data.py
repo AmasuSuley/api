@@ -49,6 +49,7 @@ class Command(BaseCommand):
             {'name': 'Mobile Applications Development(CP 313)', 'year': 3},
             {'name': 'Selected Topics in Software Engineering(CP 316)', 'year': 3},
             {'name': 'Computer Graphics(CP 318)', 'year': 3},
+            {'name': 'Computer Graphics(CP 318)', 'year': 3},
             {'name': 'Industrial Practical Training II(CS 231)', 'year': 3},
             {'name': 'ICT Entrepreneurship(EME 314)', 'year': 3},
             {'name': 'Mathematical Logic and Formal Semantics(MT 3111)', 'year': 3},
