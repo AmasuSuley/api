@@ -7,15 +7,13 @@ This project is a Django-based API service. It is deployed on AWS.
 - Python
 - Django
 - Django REST Framework
-- AWS (EC2, S3, RDS, etc.)
+- AWS (EC2)
 
 ## Prerequisites
 - Python 3.x
 - Django 3.x or later
 - AWS account
 - AWS CLI configured
-
-## Installation
 
 ### Clone the repository
 ```bash
@@ -26,12 +24,7 @@ cd api
 ### Create and activate a virtual environment
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-```
-
-### Install dependencies
-```bash
-pip install -r requirements.txt
+source venv/bin/activate 
 ```
 
 ### Apply migrations
@@ -76,8 +69,7 @@ cd api
 ```bash
 virtualenv venv
 source venv/bin/activate
-pip install -r requirements.txt
-```
+
 
 
 
